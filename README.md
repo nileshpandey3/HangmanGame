@@ -1,2 +1,2 @@
 # HangmanGame
-#Angularjs
+Using Angularjs/Jquery/Javascript/HTML/CSS
